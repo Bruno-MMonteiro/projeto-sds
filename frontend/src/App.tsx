@@ -2,7 +2,8 @@
 function App() {
   return (
     <div> 
-       <h1>Olá mundo</h1>
+       <h1 className="text-primary"> Spring React </h1>
+       <header className="text-warning"></header>
     </div>
   );
 }
